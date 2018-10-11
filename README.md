@@ -1,6 +1,12 @@
 # docker-laravel
 nginx + php-fpm + laravel on docker
 
+## Host OS and Virtual Environment.
+
+- Windows 10
+- Docker version 18.06.1-ce, build e68fc7a
+- I think It may also work on macOS.
+
 ## To build images.
 1. Execute following commands on host OS.
 
